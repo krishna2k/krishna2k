@@ -1,6 +1,7 @@
 - 👋 Krishna Rao
-- 👀Focusing on Data Extraction, Analysing, Visualizing and predicting. Getting into ETL !!
--  Graduated with a masters Degree from University of Texas at Dallas. I’m currently looking for full time opportunities 
+- Data Analyst/Data Scientist
+- Seeking Data Engineering
+-  Graduated with a Masters Degree from University of Texas at Dallas. I’m currently looking for full time opportunities 
 - 📫 Reach me at my email: krishna.medisetti@gmail.com
 
 <!---
